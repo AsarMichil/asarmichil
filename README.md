@@ -1,4 +1,9 @@
-## Hi there I'm Asar! 👋
+## Hey! I'm Asar
+
+studying computer science at UBC
+
+[website](asarmichil.com) · [linkedin](https://linkedin.com/in/asarmichil)
+
 
 <!--
 **AsarMichil/asarmichil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
