@@ -2,7 +2,7 @@
 
 studying computer science at UBC
 
-[website](asarmichil.com) · [linkedin](https://linkedin.com/in/asarmichil)
+[website](https://asarmichil.com) · [linkedin](https://linkedin.com/in/asarmichil)
 
 
 <!--
