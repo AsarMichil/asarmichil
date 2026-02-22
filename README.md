@@ -2,7 +2,7 @@
 
 Studying computer science at UBC
 
-Check out my [website](https://asarmichil.com)! Or connect with me on [linkedin](https://linkedin.com/in/asarmichil)
+Check out my [website](https://asarmichil.com) for an overview of my projects, if you like the look clone my [portfolio template](https://github.com/AsarMichil/portfolio-template)! Or connect with me on [linkedin](https://linkedin.com/in/asarmichil)
 
 
 <!--
