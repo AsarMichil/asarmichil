@@ -1,8 +1,8 @@
 ## Hey! I'm Asar
 
-studying computer science at UBC
-
-[website](https://asarmichil.com) · [linkedin](https://linkedin.com/in/asarmichil)
+Studying computer science at UBC
+Check out my [website](https://asarmichil.com) 
+Connect with me on [linkedin](https://linkedin.com/in/asarmichil)
 
 
 <!--
