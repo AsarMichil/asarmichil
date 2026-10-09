@@ -2,6 +2,8 @@
 
 Upper year computer science at UBC
 
+Currently building [PerGram Go](https://asarmichil.com/pergram), launched on the [App Store](https://apps.apple.com/ca/app/pergram-go/id6799463251)!
+
 Check out my [website](https://asarmichil.com) for an overview of my projects, if you like the look clone my [portfolio template](https://github.com/AsarMichil/portfolio-template)! Or connect with me on [linkedin](https://linkedin.com/in/asarmichil)
 
 
